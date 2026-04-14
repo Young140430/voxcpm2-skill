@@ -61,3 +61,8 @@ voxcpm2-skill/
 ├── client.py         # 原始 API 客户端示例
 └── prompt_audio.wav  # 参考音频示例
 ```
+
+## 相关链接
+
+- **GitHub**: https://github.com/OpenBMB/VoxCPM
+- **ModelScope**: https://www.modelscope.cn/models/OpenBMB/VoxCPM2
